@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "955035464646",
+    "project_id": "privnotes-e1f00",
+    "storage_bucket": "privnotes-e1f00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955035464646:android:1f3fdfd4200fb4ef6878c7",
+        "android_client_info": {
+          "package_name": "com.example.privnotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955035464646-9c3vubf73c5gvbhj56l66r04iqb71k9m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1aL8S2iP1rKWZFadFAEQe4C1rsKVrnT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955035464646-9c3vubf73c5gvbhj56l66r04iqb71k9m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
