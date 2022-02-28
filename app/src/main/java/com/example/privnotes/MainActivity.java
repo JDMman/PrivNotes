@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
 
     private EditText mloginemail,mloginpassword;
     private RelativeLayout mlogin;
-    private TextView mgotoforgotpassword,mgotosignup;
+    private TextView mgotoforgotpassword,mgotosignup  ;
 
 
 

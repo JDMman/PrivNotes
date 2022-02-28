@@ -66,7 +66,7 @@ public class signup extends AppCompatActivity {
                 }
                 else if(password.length()<7)
                 {
-                    Toast.makeText(getApplicationContext(),"Password Should Greater Than 7 Digits",Toast.LENGTH_SHORT).show();
+                    Toast.makeText(getApplicationContext(),"Password Should Greater Than 7 Characters",Toast.LENGTH_SHORT).show();
                 }
                 else
                 {
@@ -84,7 +84,7 @@ public class signup extends AppCompatActivity {
                             }
                             else
                             {
-                                Toast.makeText(getApplicationContext(),"Failed To Register",Toast.LENGTH_SHORT).show();
+                                Toast.makeText(getApplicationContext(),"Account is already used",Toast.LENGTH_SHORT).show();
                             }
 
 

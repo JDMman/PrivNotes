@@ -41,18 +41,17 @@
     </TextView>
 
     <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/gotoeditnote"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
         android:layout_alignParentRight="true"
-        android:layout_marginBottom="30dp"
-        android:layout_marginRight="30dp"
+        android:layout_alignParentBottom="true"
         android:layout_gravity="bottom|end"
-        android:id="@+id/gotoeditnote"
+        android:layout_marginRight="30dp"
+        android:layout_marginBottom="30dp"
+        android:backgroundTint="#FFFF00"
         android:src="@drawable/ic_baseline_edit_24"
-        android:background="#A1f4ab"
-        app:maxImageSize="40dp"
-        >
+        app:maxImageSize="40dp">
 
     </com.google.android.material.floatingactionbutton.FloatingActionButton>
 
